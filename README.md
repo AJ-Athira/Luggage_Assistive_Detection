@@ -12,15 +12,7 @@ This is a computer vision prototype using **YOLOv8**, **OpenCV**, and **Text-to-
 - Provides **audio alerts** when luggage is detected using `pyttsx3`.
 - Uses **YOLOv8n** (nano) model for fast, lightweight performance.
 
----
 
-## 🖥️ Demo
-
-| Webcam Mode | File Mode |
-|-------------|-----------|
-| ![webcam_demo](demo/webcam_demo.gif) | ![file_demo](demo/file_demo.gif) |
-
----
 
 ## 📦 Requirements
 
